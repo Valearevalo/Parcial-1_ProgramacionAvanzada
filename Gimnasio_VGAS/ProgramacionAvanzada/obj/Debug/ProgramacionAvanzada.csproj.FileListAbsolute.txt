@@ -1,0 +1,12 @@
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\bin\Debug\ProgramacionAvanzada.exe.config
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\bin\Debug\ProgramacionAvanzada.exe
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\bin\Debug\ProgramacionAvanzada.pdb
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.Properties.Resources.resources
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.csproj.GenerateResource.Cache
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.exe
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.pdb
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.FormMain.resources
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.Login.Login.resources
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.Login.Admin.resources
+C:\Users\usuario\Music\Gimnasio_VGAS\ProgramacionAvanzada\obj\Debug\ProgramacionAvanzada.Login.UsuarioComun.resources
